@@ -45,7 +45,13 @@ cd network-reconnaissance-tool
     8. Directory Busting: Finds hidden directories on a web server.
     9. Packet Sniffing: Captures and displays network packets.
     10. Network Service Enumeration: Lists services running on a target.
-
+## My Contribution
+This project was developed during my cybersecurity internship at ITSOLERA Pvt. Ltd.
+My contributions included:
+- Development of reconnaissance modules
+- Port scanning functionality
+- Testing and debugging
+- Report Writing
     
 
 
